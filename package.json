@@ -1,0 +1,16 @@
+{
+  "name": "generator-majopen",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Yenn Lou <yennlou21@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.11.0"
+  }
+}
